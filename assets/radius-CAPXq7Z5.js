@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-DEdD30eg.js";import{useMDXComponents as e}from"./index-CcnH5Kt0.js";import{ae as i}from"./index-d-BEN1LK.js";import{T as s}from"./tokensGrid-DxP8cAQU.js";import{r as m}from"./index-CVszNU9O.js";import"./index-RYns6xqu.js";import"./iframe-BQt_Hq2E.js";import"../sb-preview/runtime.js";import"./index-D16Yfzz8.js";import"./index-D-8MO0q_.js";import"./index-B23dhaOI.js";import"./index-DrFu-skq.js";function r(o){const n={h1:"h1",p:"p",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(i,{title:"Tokens/Radius"}),`
+`,t.jsx(n.h1,{id:"radius",children:"Radius"}),`
+`,t.jsx(n.p,{children:"Design System do Ignite;"}),`
+`,t.jsx(s,{tokens:m})]})}function g(o={}){const{wrapper:n}={...e(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(r,{...o})}):r(o)}export{g as default};

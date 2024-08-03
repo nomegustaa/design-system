@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-DEdD30eg.js";import{useMDXComponents as r}from"./index-CcnH5Kt0.js";import{ae as s}from"./index-d-BEN1LK.js";import{T as i}from"./tokensGrid-DxP8cAQU.js";import{f as m}from"./index-CVszNU9O.js";import"./index-RYns6xqu.js";import"./iframe-BQt_Hq2E.js";import"../sb-preview/runtime.js";import"./index-D16Yfzz8.js";import"./index-D-8MO0q_.js";import"./index-B23dhaOI.js";import"./index-DrFu-skq.js";function e(o){const n={h1:"h1",p:"p",...r(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Font Sizes"}),`
+`,t.jsx(n.h1,{id:"font-sizes",children:"Font Sizes"}),`
+`,t.jsx(n.p,{children:"Design System do Ignite;"}),`
+`,t.jsx(i,{tokens:m,hasRemValue:!0})]})}function D(o={}){const{wrapper:n}={...r(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(e,{...o})}):e(o)}export{D as default};
