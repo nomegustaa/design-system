@@ -1,0 +1,15 @@
+{
+  "name": "turborepo-basic",
+  "private": true,
+  "packageManager": "npm@10.6.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.11"
+  }
+}

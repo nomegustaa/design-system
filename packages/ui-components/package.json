@@ -1,0 +1,29 @@
+{
+  "name": "@ignite-ui-ds/ui-components",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@ignite-ui-ds/tokens": "*",
+    "@ignite-ui-ds/ts-config": "*",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "tsup": "^8.2.3",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.1.1",
+    "@stitches/react": "^1.2.8",
+    "phosphor-react": "^1.4.1"
+  }
+}
