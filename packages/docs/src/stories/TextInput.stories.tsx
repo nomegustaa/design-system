@@ -4,7 +4,7 @@ import {
   Text,
   TextInput,
   TextInputProps,
-} from '@ignite-ui-ds/ui-components';
+} from '@ui-kit-design-sistem/ui-components';
 
 export default {
   title: 'Tipography/ TextInput',

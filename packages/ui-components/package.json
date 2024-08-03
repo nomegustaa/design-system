@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui-ds/ui-components",
+  "name": "@ui-kit-design-sistem/ui-components",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,8 +13,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@ignite-ui-ds/tokens": "*",
-    "@ignite-ui-ds/ts-config": "*",
+    "@ui-kit-design-sistem/tokens": "*",
+    "@ui-kit-design-sistem/ts-config": "*",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",

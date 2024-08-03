@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react';
-import { Box, Text } from '@ignite-ui-ds/ui-components';
+import { Box, Text } from '@ui-kit-design-sistem/ui-components';
 
 export default {
   title: 'Form/ Box',

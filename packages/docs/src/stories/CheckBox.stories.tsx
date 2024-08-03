@@ -4,7 +4,7 @@ import {
   Text,
   Checkbox,
   CheckboxProps,
-} from '@ignite-ui-ds/ui-components';
+} from '@ui-kit-design-sistem/ui-components';
 
 export default {
   title: 'Form/Checkbox',
